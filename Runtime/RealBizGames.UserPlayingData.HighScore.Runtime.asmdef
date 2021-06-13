@@ -1,0 +1,16 @@
+{
+    "name": "RealBizGames.UserPlayingData.HighScore.Runtime",
+    "references": [
+        "RealBizGames.Data.Runtime",
+        "RealBizGames.ChainPattern.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
