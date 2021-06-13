@@ -6,6 +6,11 @@
 3. It can be config to use which place that the developer want to store the score.
   
   
+## Configuration
+1. USING_HIGHSCORE_UNITY_SOCIAL : Use Unity IAP to Report Score and Show Leader Board UI
+
+  
+  
 ## IOS GameCenter Leader Board
 1. https://developer.apple.com/design/human-interface-guidelines/game-center/overview/leaderboards/
 2. https://docs.unity3d.com/ScriptReference/SocialPlatforms.GameCenter.GameCenterPlatform.html
