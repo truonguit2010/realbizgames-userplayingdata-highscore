@@ -10,7 +10,7 @@
 1. https://developer.apple.com/design/human-interface-guidelines/game-center/overview/leaderboards/
 2. https://docs.unity3d.com/ScriptReference/SocialPlatforms.GameCenter.GameCenterPlatform.html
 
-![IOS LeaderBoard Sample](Samples~/IOS_LEADER_BOARD.jpg)
+![IOS LeaderBoard Sample](Samples~/IOS_LEADER_BOARD.jpeg)
   
 ## Android Google Play Service Leader Board
 
